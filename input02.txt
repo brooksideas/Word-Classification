@@ -32,9 +32,9 @@ NP-Complete
 undecidable
 algorithm
 When we want to compute the tangent line of a curve we need to take the derivative
-Scalability is important when we have a lot of data to deal with especially for large applications
+scalability is important when we have a lot of data to deal with especially for large applications
 The sum of two numbers is the result of addition however when we subtract two numbers we obtain the difference 
-Primality is a problem that is NP and Co-NP but not NP-Complete thus it takes a long time to compute
+primality is a problem that is NP and Co-NP but not NP-Complete thus it takes a long time to compute
 because it needs to perform prime factorization of a number since it eventually comes to a halt
 it is not an undecidable problem
 The halting problem is known to be an undecidable problem in computational theory thus no algorithm
